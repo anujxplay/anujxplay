@@ -34,6 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anujxplay&show_icons=true&locale=en&layout=compact" alt="anujxplay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujxplay&show_icons=true&locale=en" alt="anujxplay" /></p>
+<!-- GitHub Streak Card -->
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=anujxplay&theme=tokyonight&hide_border=true&fire=DD2727&currStreakLabel=7F9CF5" alt="GitHub Streak" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujxplay&" alt="anujxplay" /></p>
 
