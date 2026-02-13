@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ANUJ YADAV</h1>
-<h3 align="center">I am python developer</h3>
+<h3 align="center">A passionate Data Analyst & Python Developer
+</h3>
 
 ---
 
